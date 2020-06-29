@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    <sitemap>
+        <loc>https://george16886.github.io/post-sitemap.xml</loc>
+        <lastmod>2020-06-29T11:33:26.454Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://george16886.github.io/page-sitemap.xml</loc>
+        <lastmod>2020-06-29T11:33:26.466Z</lastmod>
+    </sitemap>
+
+</sitemapindex>
+<!-- XML Sitemap -->
+
